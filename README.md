@@ -1,2 +1,2 @@
 # JAVA-SCRIPT
-BY CHAI AUR CODE YOUTUBE CHANNEL
+learn through youtube channel(CHAI AUR CODE)
