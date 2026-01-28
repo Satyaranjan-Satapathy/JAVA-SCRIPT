@@ -13,7 +13,7 @@ let myArr = [1,2,3,4,5]
 // const newArr = myArr.join()
 // console.log(newArr);
 
-//slice $ splice
+// slice $ splice
 
 // console.log("A",myArr);
 
@@ -24,7 +24,7 @@ let myArr = [1,2,3,4,5]
 // const mynew2 = myArr.splice(1,3)
 // console.log("C",myArr);
 // console.log(mynew2);
-//this method manipulate the original array (splice method)
+// this method manipulate the original array (splice method)
 
 const marvel_heros = ["thor","ironman","hulk"]
 const dc_heros = ["superman",'batman',"me"]
